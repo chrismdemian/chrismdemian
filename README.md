@@ -19,8 +19,8 @@
 
 🧿 **[MetaHPO](https://github.com/chrismdemian/meta-hpo)** · Meta-learning for hyperparameter optimization. Predicts optimal configs from dataset characteristics.
 
-👾 **[Mabble](https://playmabble.com)** · Multiplayer math game. Build equations, score points, outsmart your friends.
+👾 **[Mabble](https://playmabble.com)** · Scrabble, but for math. Multiplayer equation-building game with real-time matches and ranked play.
 
-🧠 **[Axon](https://axonsolutions.net)** · AI-powered lead generation and outreach automation for businesses.
+🧠 **[Axon](https://axonsolutions.net)** · End-to-end AI sales platform. Automated prospecting, lead scoring, multi-channel outreach, and CRM for growing businesses.
 
 
