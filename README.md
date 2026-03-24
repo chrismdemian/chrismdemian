@@ -9,18 +9,18 @@
 
 ## What I'm Building
 
-🎵 **[Symphony](https://github.com/chrismdemian/symphony)** — AI coding orchestrator. One TUI to manage multiple Claude Code instances across projects. Worktree isolation, smart delegation, voice control from smart glasses.
+🎵 **[Symphony](https://github.com/chrismdemian/symphony)** · AI coding orchestrator. One TUI to manage multiple Claude Code instances across projects.
 
-🔌 **[Claude Code Discord Bridge](https://github.com/chrismdemian/claude-code-discord-bridge)** — Control Claude Code from your phone via Discord. Full session mirroring, bidirectional messaging, permission approval — all from mobile.
+🔌 **[Claude Code Discord Bridge](https://github.com/chrismdemian/claude-code-discord-bridge)** · Control Claude Code from your phone via Discord. Session mirroring, bidirectional messaging, permission approval.
 
-📺 **[TermWatch](https://github.com/chrismdemian/termwatch)** — Watch shows behind your terminals. Video plays in the background with transparent terminal overlays for Claude Code, Codex, and any CLI tool.
+📺 **[TermWatch](https://github.com/chrismdemian/termwatch)** · Video plays in the background with transparent terminal overlays. Watch shows behind Claude Code, Codex, or any CLI.
 
-🔒 **[SecPipe](https://github.com/chrismdemian/cf_ai_secpipe)** — AI-powered security code review pipeline on Cloudflare Workers. 9-stage analysis using Llama 3.3 with intelligent reachability filtering.
+🔒 **[SecPipe](https://github.com/chrismdemian/cf_ai_secpipe)** · AI security code review on Cloudflare Workers. 9-stage pipeline with Llama 3.3 and reachability filtering.
 
-🧿 **[MetaHPO](https://github.com/chrismdemian/meta-hpo)** — Meta-learning approach for predicting optimal hyperparameters for ML models based on dataset characteristics.
+🧿 **[MetaHPO](https://github.com/chrismdemian/meta-hpo)** · Meta-learning for hyperparameter optimization. Predicts optimal configs from dataset characteristics.
 
-👾 **[Mabble](https://playmabble.com)** — A multiplayer mathematical tile-placement game. Build equations, score points, outsmart your friends.
+👾 **[Mabble](https://playmabble.com)** · Multiplayer math game. Build equations, score points, outsmart your friends.
 
-🧠 **[Axon](https://axonsolutions.net)** — AI-powered lead generation and outreach automation for businesses.
+🧠 **[Axon](https://axonsolutions.net)** · AI-powered lead generation and outreach automation for businesses.
 
 
