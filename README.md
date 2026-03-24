@@ -21,6 +21,6 @@
 
 👾 **[Mabble](https://playmabble.com)** · Scrabble, but for math. Multiplayer equation-building game with real-time matches and ranked play.
 
-🧠 **[Axon](https://axonsolutions.net)** · End-to-end AI sales platform. Automated prospecting, lead scoring, multi-channel outreach, and CRM for growing businesses.
+🧠 **[Axon](https://axonsolutions.net)** · AI influencer marketing platform. Scans millions of creators, automates outreach and negotiation, and manages campaigns end-to-end.
 
 
