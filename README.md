@@ -19,7 +19,7 @@
 
 🧿 **[MetaHPO](https://github.com/chrismdemian/meta-hpo)** · Meta-learning for hyperparameter optimization. Predicts optimal configs from dataset characteristics.
 
-👾 **[Mabble](https://playmabble.com)** · Scrabble, but for math. Real-time multiplayer with drag-and-drop tiles, AI bots, Glicko-2 rankings, and daily puzzles.
+👾 **[Mabble](https://playmabble.com)** · Scrabble, but for math. Build equations on a board, compete in real-time 1v1s, climb Glicko-2 rankings, and share daily puzzle scores with friends.
 
 🧠 **[Axon](https://axonsolutions.net)** · AI influencer agency. Scans millions of creators, automates outreach and negotiation, and manages campaigns end-to-end.
 
