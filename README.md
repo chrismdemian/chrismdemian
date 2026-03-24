@@ -23,7 +23,4 @@
 
 🧠 **[Axon](https://axonsolutions.net)** — AI-powered lead generation and outreach automation for businesses.
 
----
-
-![Chris's GitHub activity](https://ghchart.rshah.org/7C6FEB/chrismdemian)
 
