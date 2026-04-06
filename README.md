@@ -9,7 +9,7 @@
 
 ## What I'm Building
 
-<!--🎵 **[Symphony](https://github.com/chrismdemian/symphony)** · AI coding orchestrator. One TUI to manage multiple Claude Code instances across projects.-->>
+<!--🎵 **[Symphony](https://github.com/chrismdemian/symphony)** · AI coding orchestrator. One TUI to manage multiple Claude Code instances across projects.-->
 
 🔌 **[Claude Code Discord Bridge](https://github.com/chrismdemian/claude-code-discord-bridge)** · Control Claude Code from your phone via Discord. Session mirroring, bidirectional messaging, permission approval.
 
